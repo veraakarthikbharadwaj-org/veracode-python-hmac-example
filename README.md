@@ -1,4 +1,4 @@
-# Veracode Python HMAC Example - try
+# Veracode Python HMAC Example - try 2
 
 A simple example of usage of the Veracode Python API signing library provided in the [Veracode Documentation](https://docs.veracode.com/r/c_hmac_signing_example_python).
 
